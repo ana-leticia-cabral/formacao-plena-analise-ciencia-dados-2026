@@ -1,0 +1,20 @@
+Tarefa: Desafio Prático III - Análise Descritiva de Dados II
+
+Neste desafio, você atuará como um cientista de dados em uma empresa de e-commerce, analisando um conjunto de dados realista contendo informações sobre produtos vendidos, preços, avaliações e categorias.
+O objetivo é integrar os conhecimentos do Módulo básico III.
+
+-> Utilize qualquer ferramenta de sua escolha (Python, R, Excel, Google Sheets)
+-> O conjunto de dados fornecido contém informações sobre vendas de produtos em um e-commerce
+-> Não esqueça de tratar os dados adequadamente, quanto ao formato das variáveis (numérico, texto, etc), principalmente.
+-> Siga as instruções de cada pergunta.
+
+Perguntas dessa tarefa:
+
+1. Calcule a média, mediana, desvio padrão populacional e coeficiente de variação da variável Preço. Identifique a moda (o valor ou os valores mais frequentes, sendo amodal - sem moda, multimodal - com várias modas ou unimodal - com uma moda, caso exista.)
+
+2. Crie um histograma para visualizar a distribuição dos preços. Construa um boxplot e analise a presença de outliers. Faça upload dos gráficos como imagens (formatos aceitos: PNG e JPEG).
+
+3. Avalie se a categoria do produto, aparentemente, influencia a quantidade vendida; justificando sua resposta. Utilize as ferramentas adequadas para essa análise (gráficos, tabelas, etc).
+
+4. Filtre os produtos com quantidade vendida acima da mediana do conjunto. Entre esses produtos, selecione os que possuem preço superior a R$ 200 e faturamento acima de R$ 6.000.
+Quantos produtos atendem a esses critérios? Qual a porcentagem em relãção ao total?
