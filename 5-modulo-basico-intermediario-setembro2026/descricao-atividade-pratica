@@ -1,0 +1,30 @@
+Tarefa: Desafio Prático IV - Análise Descritiva de Dados III
+
+Neste desafio, você deverá aplicar conceitos de análise exploratória e descritiva para investigar um conjunto de dados sobre indicadores socioeconômicos de diferentes municípios brasileiros. O objetivo é extrair informações úteis a partir dos dados, utilizando a ferramenta de sua escolha.
+
+-> Utilize o conjunto de dados fornecido para realizar a análise (o conjunto contém dados simulados, então deve ser interpretado como um conjunto criado unicamente para fins educacionais).
+
+-> Você pode usar qualquer ferramenta para resolver as questões (Python, Excel, R, etc.).
+
+-> Cada resposta deve conter tanto os cálculos quanto uma breve interpretação dos resultados.
+
+-> Para gráficos ou tabelas, apresente suas conclusões de forma clara e organizada.
+
+-> Utilize os conhecimentos multidisciplinares obtidos até aqui para responder às questões.
+
+
+Perguntas dessa tarefa:
+
+1. Qual é a média do PIB per capita das cidades com IDH abaixo de 0.75? Compare com as cidades com IDH acima ou igual a 0.75. Utilize também uma variável demográfica dentro do conjunto de dados estudado que seja capaz, em teoria, de explicar um PIB per capita menor para cidades com IDH abaixo de 0,75.
+
+2. Existe uma diferença significativa na Taxa de Desemprego entre cidades com IDH abaixo de 0.75 e cidades com IDH igual ou acima de 0.75?
+
+3. Qual é a relação entre desigualdade (Índice de Gini) e PIB per capita? Utilize o gráfico mais apropriado (faça upload em PNG ou JPEG) para explicar essa relação.
+
+4. Quais são os 3 municípios mais desiguais e como eles se comparam em termos de PIB per capita e Taxa de Desemprego?
+
+5. Os dados analisados mostram grandes diferenças entre os municípios em termos de desenvolvimento humano, desigualdade de renda, mercado de trabalho e demografia. Agora, imagine que você faz parte de uma equipe de análise de dados em um órgão público federal e precisa propor medidas para melhorar a qualidade de vida nas cidades mais vulneráveis.
+
+Sua primeira tarefa é: Selecione três cidades que apresentam os piores indicadores sociais considerando simultaneamente IDH, taxa de desemprego, PIB per capita e Gini. Justifique a sua escolha apresentando o que você fez para chegar nessas três cidades (se conseguir, crie uma única medida objetiva capaz de explicar as 4 variáveis conjuntamente). Analise os principais desafios urbanos e sociais que essas cidades podem enfrentar com base nos dados disponíveis.
+
+6. Sua segunda tarefa é: Proponha ao menos duas políticas públicas que possam ser aplicadas a nível federal para reduzir esses problemas, levando em conta aspectos como territorialidade, acesso a serviços essenciais e equidade na distribuição de recursos. Justifique sua resposta integrando os conhecimentos até aqui.
